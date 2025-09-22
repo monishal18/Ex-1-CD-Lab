@@ -78,10 +78,12 @@ int main() {
 ~~~
 # OUTPUT
 
-<img width="775" height="370" alt="Screenshot 2025-09-15 105848" src="https://github.com/user-attachments/assets/5b64561b-e953-4e73-b2a8-88a9a6a266cb" />
+
+<img width="1173" height="726" alt="Screenshot 2025-09-22 181443" src="https://github.com/user-attachments/assets/b35cd364-79a4-4040-88ae-d121f325382f" />
 
 
-![WhatsApp Image 2025-09-15 at 11 01 34_f2be4ffe](https://github.com/user-attachments/assets/0bfe311e-d164-48b3-808b-28bdc78dab19)
+
+<img width="1248" height="761" alt="Screenshot 2025-09-22 181523" src="https://github.com/user-attachments/assets/f74dffaa-cb94-4e49-8ab9-a5d62edfc64c" />
 
 
 # RESULT
